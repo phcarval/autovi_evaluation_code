@@ -3,7 +3,7 @@
 The evaluation scripts can be used to assess the performance of a method on the AutoVI dataset.
 Given a directory with anomaly maps, the scripts compute the area under the sPRO curve for anomaly localization.
 
-This code is adapted from the code graciously made available by MVTec GmbH at [https://www.mydrive.ch/shares/60736/698155e0e6d0467c4ff6203b16a31dc9/download/439517473-1665667812/mvtec_ad_evaluation.tar.xz](https://www.mydrive.ch/shares/60736/698155e0e6d0467c4ff6203b16a31dc9/download/439517473-1665667812/mvtec_ad_evaluation.tar.xz)
+This code is adapted from the code graciously made available by MVTec GmbH at [https://www.mvtec.com/company/research/datasets/mvtec-ad/](https://www.mvtec.com/company/research/datasets/mvtec-ad/)
 
 ## Installation.
 Our evaluation scripts require a python 3.7 installation as well as the following
